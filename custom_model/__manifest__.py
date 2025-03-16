@@ -10,7 +10,7 @@
     "summary": "Hide pager counter in contact",
     "description": """Hide pager counter in contact""",
     'category': 'Extra Rights',
-    'price': 0,
+    'price': 10,
     'currency': "EUR",
     "website": "https://www.youtube.com/@ahmad-odoo-apps",
     "data": [
