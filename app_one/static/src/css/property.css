@@ -1,9 +1,0 @@
-.header_custom table thead > tr > th {   /* هاد معناه سطر العنوان الرئيسي */
-background-color: #7BD3EA !important; /* بغير لون خلفية الحقل */
-color: blue !important; /* بغير لون الكتابة */
-text-align: center !important; /* بغير مكان الجملة */
-}
-
-.header_custom table thead > tr > th:nth-child(3) { /* هذا يغير عرض الحقل الثاني الظاهر في واجهة العرض واذا كان في حقل يمكن اخفائه لما نظهره بيعتبره ثالث حقل لانو بعد الحقول الظاهرة فقط وهون حطينا 3 لانو اول حقل هو حقل السلسيكت الاساسي تبع اودو */
-width: 350px !important;
-}
