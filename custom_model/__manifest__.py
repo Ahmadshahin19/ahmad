@@ -7,8 +7,8 @@
     "depends": ['base','contacts'],
     
     "author": "Ahmad Shahin",
-    "summary": "Hide pager counter in contact",
-    "description": """Hide pager counter in contact""",
+    "summary": "Hide pager1 counter in contact",
+    "description": """Hide2 pager counter in contact""",
     'category': 'Extra Rights',
     'price': 10,
     'currency': "EUR",
