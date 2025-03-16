@@ -5,6 +5,7 @@
     "name": "Custom Model",
     "version": "16.0.0.0",
     "depends": ['base','contacts'],
+    
     "author": "Ahmad Shahin",
     "summary": "Hide pager counter in contact",
     "description": """Hide pager counter in contact""",
