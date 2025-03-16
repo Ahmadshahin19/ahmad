@@ -1,8 +1,0 @@
-<odoo>
-
-    <record id="pager_counter_show_in_contact" model="res.groups">
-        <field name="name">Pager Counter Show In Contact</field>
-        <field name="category_id" ref="base.module_category_usability"/>
-    </record>
-
-</odoo>
